@@ -6,9 +6,8 @@
 
     <name>First app</name>
     <description>My first mobile app</description>
-    <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
-		John Brown
-	</author>
+    <author>Adobe Systems Canada Inc</author>
+<preference name="phonegap-version" value="cli-6.1.0" />
 	<platform name="android" />
 	<platform name="windows" />
 	<plugin name="cordova-plugin-device" spec="~1.1.4" />
